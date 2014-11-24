@@ -16,6 +16,15 @@ The story of the Semantic Web is the story of the Web. Some 25 years ago Tim Ber
 
 Shortly after I got interested in the Semantic Web I started reading the book Weaving the Web, where Berners-Lee explains his story of how the whole thing happened. After reading the specifications of the Semantic Web I was amazed: It became absolutely clear to me that from the beginning Tim Berners-Lee envisioned not just the Web as we know it but the Semantic Web. He just had to solve a whole lot of problems before and in the best tradition of iterative programming, he and his crew started with the basics first. So let me try to explain what the Semantic Web is based on what we know from the Web.
 
+The Internet was there before the Web. In mid 70ies the US Department of Defense started development of something which became known as the ARPANET. This network was running on the early drafts of what we now know as the Internet protocol suite, often dubbed TCP/IP. In the early 80ies the protocols got formalized and new networks were connected to it, the Internet started to take off. There were quite some services available and the most popular ones were probably email for direct communication and newsgroups for public communication about certain topics. However, sharing documents and knowledge was not easy and there was no formalized way in doing that.
+
+Berners-Lee came up with several fundamental ideas: Every thing we share on the web gets a unique link and we use a common way to share the content, in the Web this is a HTML document.
+
+Now it gets a bit more complicated but in the end it boils down to this:
+
+* The link is globally unique. Everyone can start creating links within his realm called namespace. If you for example own the domain example.org you can create unique links like www.example.org/aboutme.html.
+* Documents are represented in a standardized format called HTML. In this specification Berners-Lee reused a concept he found elsewhere: Hypertext. This was the simple idea that you could point from one document to another by adding something we now know as a hyperlink.
+* To make the hyperlink concept work outside of proprietary applications he also came up with a transport protocol for such documents. We all know, love and hate it under the name HyperText Transfer Protocol or short HTTP.
 
 
 
