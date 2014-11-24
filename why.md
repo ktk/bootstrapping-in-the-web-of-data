@@ -12,6 +12,10 @@ So I went back to my friends presentation, printed a whole bunch of W3C specific
 
 ## The Web of Data
 
-The story of the Semantic Web is the story of the Web. Some 25 years ago Tim-Berners Lee sits at his desk at CERN in Geneva and writes a now famous proposal for an information management system. He hands it over to his boss Mike Sendall, which does not care about it for several months. Finally he gets the proposal back with a short text on it: ‘Vague, but exciting’, were the words that Sendall wrote on the proposal, allowing Berners-Lee to continue. Several years later this proposal lead to what we all know and love as The Web.
+The story of the Semantic Web is the story of the Web. Some 25 years ago Tim Berners-Lee sits at his desk at CERN in Geneva and writes a now famous proposal for an information management system. He hands it over to his boss Mike Sendall, which does not care about it for several months. Finally he gets the proposal back with a short text on it: ‘Vague, but exciting’, were the words that Sendall wrote on the proposal, allowing Berners-Lee to continue. Several years later this proposal lead to what we all know and love as The Web.
+
+Shortly after I got interested in the Semantic Web I started reading the book Weaving the Web, where Berners-Lee explains his story of how the whole thing happened. After reading the specifications of the Semantic Web I was amazed: It became absolutely clear to me that from the beginning Tim Berners-Lee envisioned not just the Web as we know it but the Semantic Web. He just had to solve a whole lot of problems before and in the best tradition of iterative programming, he and his crew started with the basics first. So let me try to explain what the Semantic Web is based on what we know from the Web.
+
+
 
 
